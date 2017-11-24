@@ -1,0 +1,87 @@
+
+Licenses used by Enonic XP
+
+    Java Activation Framework
+    Common Development and Distribution License (CDDL) v.1.0
+    http://www.oracle.com/technetwork/java/jaf11-139815.html
+
+    ATTO Parser
+    MIT License
+    https://github.com/tpolecat/atto
+
+    Bouncy Castle
+    MIT License
+    https://bouncycastle.org/licence.html
+
+    Apache Commons
+    Apache License 2.0
+    https://commons.apache.org/proper/commons-daemon/license.html
+
+    ElasticSearch
+    Apache License 2.0
+    https://github.com/elastic/elasticsearch/blob/master/LICENSE.txt
+
+    Apache Felix Framework
+    Apache License 2.0
+    https://felix.apache.org/license.html
+
+    Google Guava
+    Apache License 2.0
+    https://github.com/google/guava/blob/master/COPYING
+
+    Jackson Annotations
+    Apache License 2.0
+    https://github.com/FasterXML/jackson-annotations
+
+    Jackson Core
+    Apache License 2.0
+    https://github.com/FasterXML/jackson-core
+
+    Jackson Databind
+    Apache License 2.0
+    https://github.com/FasterXML/jackson-databind
+
+    Jackson Datatype JSR310
+    Apache License 2.0
+    https://github.com/FasterXML/jackson-datatype-jsr310
+
+    Jackson JAX-RS (Base and JSON)
+    Apache License 2.0
+    https://github.com/FasterXML/jackson-jaxrs-providers
+
+    JParSec
+    Apache License 2.0
+    https://github.com/jparsec/jparsec/blob/master/LICENSE
+
+    Logback Libraries
+    Eclipse Public License - Version 1.0
+    https://www.eclipse.org/legal/epl-v10.html
+
+    JavaMail
+    Common Development and Distribution License (CDDL) v.1.0
+    https://javaee.github.io/javamail/LICENSE
+
+    Metrics
+    Apache License 2.0
+    https://github.com/dropwizard/metrics/blob/4.0-development/LICENSE
+
+    OK Http
+    Apache License 2.0
+    https://github.com/square/okhttp/blob/master/LICENSE.txt
+
+    OSGi Utilities
+    Apache License 2.0
+    https://www.mvnrepository.com/artifact/org.osgi/org.osgi.core
+    https://www.mvnrepository.com/artifact/org.osgi/org.osgi.compendium
+
+    Rest Easy
+    Apache License 2.0
+    https://github.com/resteasy/Resteasy/blob/master/License.html
+
+    SLF4J Libraries
+    MIT License
+    http://slf4j.org/license.html
+
+    Apache Tika
+    Apache License 2.0
+    https://tika.apache.org/license.html
