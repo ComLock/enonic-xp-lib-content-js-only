@@ -1,0 +1,11 @@
+{
+  "author": "Christian Westgaard <cwe@enonic.com>",
+  "license": "Apache-2.0",
+  "name": "enonic-xp-lib-content-js-only",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comlock/enonic-xp-lib-content-js-only"
+  },
+  "version": "6.12.2-SNAPSHOT"
+}
